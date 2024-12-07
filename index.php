@@ -137,5 +137,3 @@ Gestión integral: Nos encargamos de todo el proceso, desde la promoción hasta 
 
 
 <?php include 'components/footer.php'; ?>
-
-<?php include 'components/footer.php'; ?>
