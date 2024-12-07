@@ -34,10 +34,10 @@
 
 <div class="container mt-5 text-center">
         <div class="jumbotron">
-            <h1 class="display-4">Bienvenido a mi página web</h1>
-            <p class="lead">Esta es una página web simple creada como ejemplo utilizando Bootstrap.</p>
+            <h1 class="display-4">Srta Gatica propiedades</h1>
+            <p class="lead">Compra y vente tu propiedades con seguridad y ascesoria.</p>
             <hr class="my-4">
-            <p>Bootstrap facilita la creación de páginas web responsivas y atractivas.</p>
+            <p>SrtaGaticaPropiedades Con fines de venta personal y empresarial, No dude en contactarnos!.</p>
         </div>
 </div>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -50,22 +50,22 @@
         <div class="carousel-item active">
             <img src="https://puntimmobiliari.com/wp-content/uploads/2021/08/venta-vivienda.jpg" class="d-block w-100" alt="Imagen 1">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Texto sobre la imagen 1</h5>
-                <p>Descripción adicional sobre la imagen 1.</p>
+                <h5>Tenemos una ascesoria Impecable!</h5>
+                <p>La inmobilaria en cueston poseé dos titulos y exelentes posgrados educacionales.</p>
             </div>
         </div>
         <div class="carousel-item">
             <img src="https://urbania.pe/blog/wp-content/uploads/2023/09/imovelwebcomunicacaoltda_quintoandarperu_image_638.jpeg" class="d-block w-100" alt="Imagen 2">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Texto sobre la imagen 2</h5>
-                <p>Descripción adicional sobre la imagen 2.</p>
+                <h5>Somos del pueblo y para el pueblo!</h5>
+                <p>Nos criamos con poco y entendemos la falta monetaria de algunos de nuestros clientes asi que aplicamos muy buenos precios.</p>
             </div>
         </div>
         <div class="carousel-item">
             <img src="https://www.rvc.cl/wp-content/uploads/2023/09/not-inmob-2.jpg" class="d-block w-100" alt="Imagen 3">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Texto sobre la imagen 3</h5>
-                <p>Descripción adicional sobre la imagen 3.</p>
+                <h5>Contamos con un equipo excepcional en su area.</h5>
+                <p>Especializados en subsidios, hipoteca e otros tipos de tramite!.</p>
             </div>
         </div>
     </div>
@@ -81,16 +81,19 @@
 
 <div class="row section">
     <div class="col-md-4 box">
-        <h2>Sección 1</h2>
-        <p>Contenido de la sección 1.</p>
+        <h2>🔑 ¿Qué te ofrecemos?</h2>
+        <p>Asesoramiento personalizado: Evaluamos tus necesidades para encontrar la mejor opción para ti.
+Análisis de mercado profesional: Garantizamos que tu propiedad se venda al mejor precio.
+Red de contactos sólida: Conexión directa con compradores y vendedores calificados.
+Gestión integral: Nos encargamos de todo el proceso, desde la promoción hasta el cierre.</p>
     </div>
     <div class="col-md-4 box">
-        <h2>Sección 2</h2>
-        <p>Contenido de la sección 2.</p>
+        <h2>📍 Conoce las propiedades disponibles</h2>
+        <p>Descubre casas únicas en las mejores ubicaciones, adaptadas a tus preferencias y presupuesto.</p>
     </div>
     <div class="col-md-4 box">
-        <h2>Sección 3</h2>
-        <p>Contenido de la sección 3.</p>
+        <h2>📞 Contáctanos hoy mismo</h2>
+        <p>Descubre casas únicas en las mejores ubicaciones, adaptadas a tus preferencias y presupuesto, No dudes en concactarnos al: +56 9 9748 7032 !</p>
     </div>
 </div>
 
@@ -132,5 +135,7 @@
 </section>
 
 
+
+<?php include 'components/footer.php'; ?>
 
 <?php include 'components/footer.php'; ?>
