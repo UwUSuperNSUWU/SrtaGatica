@@ -34,8 +34,8 @@
 
 <div class="container mt-5 text-center">
         <div class="jumbotron">
-            <h1 class="display-4">Srta Gatica propiedades</h1>
-            <p class="lead">Compra y vente tu propiedades con seguridad y ascesoria.</p>
+            <h1 class="display-4">Srta Gatica Propiedades</h1>
+            <p class="lead">Compra y vente tu propiedades con seguridad y asesoria.</p>
             <hr class="my-4">
             <p>SrtaGaticaPropiedades Con fines de venta personal y empresarial, No dude en contactarnos!.</p>
         </div>
