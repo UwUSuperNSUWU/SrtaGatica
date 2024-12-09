@@ -9,8 +9,8 @@
         $casas = [
             ["id" => 1, "titulo" => "Casa 75mts cuadrados", "imagen" => "img/casas/Casa_75mts_cuadrados/exterior 1.PNG", "descripcion" => "SE VENDE CASA EN CURACAVÍ...Terreno 75 mts2 Estacionamiento para dos vehículos", "precio" => 68000000],
             ["id" => 2, "titulo" => "Casa 170mts cuadrados", "imagen" => "img/casas/Casa_170mts_cuadrados/exterior 1.PNG", "descripcion" => "Propiedad en centro de la comuna de Curacaví...la propiedad se puede adquirir con crédito hipotecario.", "precio" => 120000000],
-            ["id" => 3, "titulo" => "Terreno Sector Urbano", "imagen" => "img/terrenos/parcela_challaco/exterior 4.PNG", "descripcion" => "TERRENO EN SECTOR URBANO...Curacaví. 440 MTRS CUADRADOS", "precio" => 58000000],
-            ["id" => 4, "titulo" => "Parcela Sector urbano", "imagen" => "img/terrenos/terreno_sector_urbano/exterior 2.PNG", "descripcion" => "TERRENO (CESIÓN DE DERECHOS)...275 METRO CUADRADOS", "precio" => 26000000],
+            ["id" => 3, "titulo" => "Terreno Sector Urbano", "imagen" => "img/terrenos/parcela_challaco/exterior 4.PNG", "descripcion" => "TERRENO EN SECTOR URBANO...Curacaví. 440 MTRS CUADRADOS", "precio" => 26000000],
+            ["id" => 4, "titulo" => "Parcela Sector urbano", "imagen" => "img/terrenos/terreno_sector_urbano/exterior 2.PNG", "descripcion" => "TERRENO (CESIÓN DE DERECHOS)...275 METRO CUADRADOS", "precio" => 58000000],
             ["id" => 5, "titulo" => "Parcela Don Cheto", "imagen" => "img/terrenos/parcela_don_cheto/Exterior 3.PNG", "descripcion" => "Casa con jardin y piscina.", "precio" => 195000000],
 
             // Agregar más casas según sea necesario
