@@ -37,23 +37,71 @@
         1 => [
             "titulo" => "Casa_75mts_cuadrados",
             "imagenes" => [
+                "Img/casas/Casa_75mts_cuadrados/exterior_1.PNG",
+                "Img/casas/Casa_75mts_cuadrados/terraza_1.PNG",
+                "Img/casas/Casa_75mts_cuadrados/patio_1.PNG"
+            ],
+            "descripcion" => "Hermosa Parcela Sector Cercano al Pueblo.",
+            "detalles" => "SE VENDE CASA EN CURACAVÍ...Terreno 75 mts2 Estacionamiento para dos vehículos",
+            "precio" => "68.000.000"
+        ],
+        2 => [
+            "titulo" => "Casa_170mts_cuadrados",
+            "imagenes" => [
+                "Img/casas/Casa_170mts_cuadrdados/exterior_1.png",
+                "Img/casas/Casa_170mts_cuadrdados/interior_1.png",
+                "Img/casas/Casa_170mts_cuadrdados/patio_1.png",
+                 "Img/casas/Casa_170mts_cuadrdados/patio_2.png",
+                  "Img/casas/Casa_170mts_cuadrdados/exterior_2.png"
+            ],
+            "descripcion" => "Casa Dentro De Curacavi.",
+            "detalles" => "Propiedad en centro de la comuna de Curacaví...la propiedad se puede adquirir con crédito hipotecario.",
+            "precio" => "120.000.000"
+        ],
+        3 => [
+            "titulo" => "TERRENO_SECTOR_URBANO_440MTS",
+            "imagenes" => [
                 "Img/casas/Casa_75mts_cuadrados/exterior 1.PNG",
                 "Img/casas/Casa_75mts_cuadrados/terraza 1.PNG",
                 "Img/casas/Casa_75mts_cuadrados/patio 1.PNG"
             ],
             "descripcion" => "Hermosa casa frente al mar.",
             "detalles" => "Esta casa cuenta con 3 habitaciones, 2 baños y una vista espectacular al mar.",
-            "precio" => "200000"
+            "precio" => " 58.000.000"
         ],
-        2 => [
-            "titulo" => "Casa_170mts_cuadrados",
+        4 => [
+            "titulo" => "PARCELA_SECTOR_URBANO_275MTS",
             "imagenes" => [
-                "casa2_1.jpg",
-                "casa2_2.jpg",
-                "casa2_3.jpg"
+                "Img/casas/Casa_75mts_cuadrados/exterior 1.PNG",
+                "Img/casas/Casa_75mts_cuadrados/terraza 1.PNG",
+                "Img/casas/Casa_75mts_cuadrados/patio 1.PNG"
             ],
-            "descripcion" => "Moderna casa en el centro de la ciudad.",
-            "detalles" => "Esta casa cuenta con 2 habitaciones, 1 baño y está ubicada cerca de todas las comodidades de la ciudad.",
+            "descripcion" => "Hermosa casa frente al mar.",
+            "detalles" => "Esta casa cuenta con 3 habitaciones, 2 baños y una vista espectacular al mar.",
+            "precio" => "26.000.000"
+        ],
+        5 => [
+            "titulo" => "PARCELA_CONDOMINIO",
+            "imagenes" => [
+                "Img/casas/Parcela_Don_Cheto/Exterior_1.PNG",
+                "Img/casas/Parcela_Don_Cheto/Exterior_2.PNG",
+                "Img/casas/Parcela_Don_Cheto/Exterior_3.PNG",
+                "Img/casas/Parcela_Don_Cheto/Inetrior_Don_cheto_1.PNG",
+                "Img/casas/Parcela_Don_Cheto/Inetrior_don_cheto_2.PNG"
+            ],
+            "descripcion" => "Hermosa casa frente al mar.",
+            "detalles" => "Esta casa cuenta con 3 habitaciones, 2 baños y una vista espectacular al mar.",
+            "precio" => "195000000"
+        ],
+        6 => [
+            "titulo" => "Casa_75mts_cuadrados",
+            "imagenes" => [
+                "Img/casas/Casa_75mts_cuadrados/exterior 1.PNG",
+                "Img/casas/Casa_75mts_cuadrados/terraza 1.PNG",
+                "Img/casas/Casa_75mts_cuadrados/patio 1.PNG"
+            ],
+            "descripcion" => "Hermosa casa frente al mar.",
+            "detalles" => "Esta casa cuenta con 3 habitaciones, 2 baños y una vista espectacular al mar.",
             "precio" => "200000"
         ],
         // Agregar más casas según sea necesario
@@ -98,5 +146,7 @@
     }
     ?>
 </div>
+
+<?php include 'components/footer.php'; ?>
 
 <?php include 'components/footer.php'; ?>
